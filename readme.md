@@ -10,8 +10,8 @@ npm start
 
 command, to start a server with the full app deployed.
 
-Or alternatively, you can go to: 
-http://ivelin2008.github.io
+Or alternatively, you can go to =>  
+http://ivelin2008.github.io/src
 
 to see the website live.
 
