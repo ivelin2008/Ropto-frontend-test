@@ -38,7 +38,7 @@ a {
 
 #showcase {
   min-height: 450px;
-  background: url("../assets/background.jpg");
+  background: url("https://raw.githubusercontent.com/ivelin2008/ivelin2008.github.io/master/src/assets/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
